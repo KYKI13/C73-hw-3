@@ -1,0 +1,9 @@
+.travel_mainDiv{
+    border: 5px solid rgb(0, 255, 238);
+    }
+ .travel_mainDiv img  {
+        width: 100%;
+    }
+ .travel_mainDiv h5, .travel_mainDiv p{
+        margin:20px;
+    }
